@@ -59,6 +59,8 @@ Persistant API라고도 할 수 있다.
 Ex) JPA, Hibernate, mybatis 등
 https://gmlwjd9405.github.io/2019/02/01/orm.html
 
+https://techblog.woowahan.com/2647/
+
 4. 육각형 아키텍처(헥사고날 아키텍처)
 육각형 안에는 도메인 엔티티와 이와 상호작용하는 유스케이스가 있고, 육각형에서 외부로 향하는 의존성이 없음
 육각형 바깥에는 애플리케이션과 상호작용하는 다양한 어댑터가 있음.
