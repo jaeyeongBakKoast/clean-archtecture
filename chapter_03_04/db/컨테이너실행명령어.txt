@@ -1,0 +1,1 @@
+docker run -d -p 15432:5432 --name cleanpost-container cleanpost
